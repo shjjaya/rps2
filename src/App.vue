@@ -16,8 +16,8 @@ export default {
   data () {
     return {
       score: {
-          player: 10,
-          cpu: 5,
+          player: 0,
+          cpu: 0,
       },
       resultWindow: {
       text:'',
